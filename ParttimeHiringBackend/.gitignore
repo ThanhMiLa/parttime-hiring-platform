@@ -1,0 +1,44 @@
+# =========================
+# Backend .gitignore
+# Spring Boot / Maven
+# =========================
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Maven build output
+target/
+*.class
+
+# Logs
+*.log
+logs/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven wrapper jar is usually allowed
+# Do NOT ignore:
+# .mvn/wrapper/maven-wrapper.jar
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
