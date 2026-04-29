@@ -1,0 +1,37 @@
+# =========================
+# Root .gitignore
+# =========================
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# Backend build output
+ParttimeHiringBackend/target/
+ParttimeHiringBackend/*.class
+
+# Frontend dependencies and build output
+ParttimeHiringFrontend/node_modules/
+ParttimeHiringFrontend/dist/
+ParttimeHiringFrontend/build/
+ParttimeHiringFrontend/.vite/
+
+# Docker temporary files
+*.pid
+*.seed
+*.pid.lock
