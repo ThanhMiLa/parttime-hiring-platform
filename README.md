@@ -94,13 +94,6 @@ parttime-hiring-platform/
 
 ---
 
-## 📸 Screenshots
-*(Bạn có thể thêm hình ảnh demo vào đây)*
 
 ---
-
-## 📝 Giấy phép
-Dự án được phát triển cho mục đích học tập và quản lý công việc bán thời gian.
-
----
-**Phát triển bởi [Tên của bạn]** 🚀
+**Phát triển bởi [ThanhMiLa]** 🚀
