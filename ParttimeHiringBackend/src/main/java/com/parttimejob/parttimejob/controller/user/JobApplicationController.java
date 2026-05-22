@@ -1,6 +1,6 @@
 package com.parttimejob.parttimejob.controller.user;
 
-import com.parttimejob.parttimejob.dto.request.application.JobApplicationRequest;
+import com.parttimejob.parttimejob.dto.request.JobApplicationRequest;
 import com.parttimejob.parttimejob.dto.response.ApiResponse;
 import com.parttimejob.parttimejob.dto.response.JobApplicationResponse;
 import com.parttimejob.parttimejob.entity.identity.UserEntity;

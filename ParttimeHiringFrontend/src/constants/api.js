@@ -1,4 +1,4 @@
-export const API_BASE_URL = "https://parttimejobbackend.onrender.com/parttimejob";
+export const API_BASE_URL = "http://localhost:8080/parttimejob";
 
 export const API_ENDPOINTS = {
   auth: {

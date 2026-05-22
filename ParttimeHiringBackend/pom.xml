@@ -27,6 +27,13 @@
     </properties>
 
     <dependencies>
+        <!-- ========== DOTENV ========== -->
+        <dependency>
+            <groupId>me.paulschwarz</groupId>
+            <artifactId>spring-dotenv</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+
         <!-- ========== CORE: Web + JPA + DB ========== -->
         <!-- REST API (Spring MVC) -->
         <dependency>

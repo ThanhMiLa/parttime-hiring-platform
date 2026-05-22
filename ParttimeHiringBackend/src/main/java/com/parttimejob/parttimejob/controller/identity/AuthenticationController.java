@@ -1,4 +1,4 @@
-package com.parttimejob.parttimejob.controller;
+package com.parttimejob.parttimejob.controller.identity;
 
 
 import com.nimbusds.jose.JOSEException;

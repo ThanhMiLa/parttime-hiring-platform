@@ -1,4 +1,4 @@
-package com.parttimejob.parttimejob.dto.request.application;
+package com.parttimejob.parttimejob.dto.request;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
