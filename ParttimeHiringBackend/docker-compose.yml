@@ -6,8 +6,8 @@ services:
     container_name: parttime_mysql_db
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: ngocthanhvo2005
-      MYSQL_DATABASE: parttimejob
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME:-parttimejob}
     ports:
       - "3306:3306"
     volumes:
