@@ -1,8 +1,0 @@
-target
-.idea
-.vscode
-.git
-.gitignore
-.env
-Dockerfile
-README.md
